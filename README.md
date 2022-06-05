@@ -1,6 +1,6 @@
 ### Hi I'm Max!
 
-I am especially interested in how I can use my skill set to make a __useful impact__. On our __society__ and our __future__.
+I am especially interested in how I can use my skill set to make a useful impact. On our society and our future.
 
 I have been passionate about Computer Science for years. Since then, I have created websites, worked with the newest technologies such as WebAR, and developed solutions to community problems.
 I am also very involved in film. Both with my own projects, as well as as a Setrunner on bigger German television productions.
