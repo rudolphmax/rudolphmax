@@ -2,11 +2,9 @@
 
 I am especially interested in how I can use my skill set to make a useful impact. On our society and our future.
 
-I have been passionate about Computer Science for years. Since then, I have created websites, worked with the newest technologies such as WebAR, and developed solutions to community problems.
-I am also very involved in film. Both with my own projects, as well as as a Setrunner on bigger German television productions.
+I have been passionate about Computer Science for years. I create websites, work with newest technologies such as WebAR, and develop solutions to community problems.
 
-Currently, I work remotely for a freelancing Web-Dev and online strategist. 
-In 2022 I am planning to start my Software Engineering degree.
+Currently, I study computer science and work for a freelancing creative technologist and online strategist. 
 
 
 <!---
